@@ -8,4 +8,8 @@
 
 | No. | Courses   |
 | -------- | -------- | 
-| 01 | Coming Soon...|
+| 01 | [Machine Learning Specialization - Stanford and DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-introduction?) |
+| 02 | []() |
+| 03 | []() |
+| 04 | []() |
+| 05 | []() |
