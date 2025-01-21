@@ -9,7 +9,7 @@
 | No. | Courses   |
 | -------- | -------- | 
 | 01 | [Machine Learning Specialization - Stanford and DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-introduction?) |
-| 02 | []() |
+| 02 | [Designing Machine Learning Systems]() |
 | 03 | []() |
 | 04 | []() |
 | 05 | []() |
