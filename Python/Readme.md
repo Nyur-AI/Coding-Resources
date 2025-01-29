@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# Python Resources
 
 
 | No. | Books    |
