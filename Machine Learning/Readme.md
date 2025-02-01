@@ -10,7 +10,7 @@
 | No. | Courses   |
 | -------- | -------- | 
 | 01 | [Machine Learning Specialization - Stanford and DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-introduction?) |
-| 02 | []() |
-| 03 | []() |
+| 02 | [Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]](https://www.udemy.com/course/machinelearning/?couponCode=LEARNNOWPLANS) |
+| 03 | [Complete Data Science,Machine Learning,DL,NLP Bootcamp](https://www.udemy.com/course/complete-machine-learning-nlp-bootcamp-mlops-deployment/?couponCode=LEARNNOWPLANS) |
 | 04 | []() |
 | 05 | []() |
