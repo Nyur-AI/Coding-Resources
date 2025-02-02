@@ -1,4 +1,4 @@
-def selectionsort(arr):
+def selection_sort(arr):
     n = len(arr)
 
     for s in range(n):
@@ -17,7 +17,7 @@ def selectionsort(arr):
 
 arr = [3,1,2,5,4,6,9,8,7,0]
 
-print(selectionsort(arr))
+print(selection_sort(arr))
 
 """
 Time Complexity :
