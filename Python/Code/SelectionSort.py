@@ -8,7 +8,9 @@ def selectionsort(arr):
             if arr[i] < arr[min_idx]:
                 min_idx = i
         
-        (arr[s], arr[min_idx]) = (arr[min_idx], arr[s])
+        # Swap only if min_idx is different
+        if min_idx != s:
+            arr[s], arr[min_idx] = arr[min_idx], arr[s]
     
     return arr
 
