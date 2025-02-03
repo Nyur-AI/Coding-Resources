@@ -1,4 +1,4 @@
-#Deletion of Particualr Node From Linked List
+#Deletion of Particular Node From Linked List
 
 class Node:
     def __init__(self, data):
@@ -24,6 +24,6 @@ if current.next is not None:
 
 current = head
 while current:
-    print(current.data, end=" -> ")
+    print(current.data, end = " -> ")
     current = current.next
 print("None")
